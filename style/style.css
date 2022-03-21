@@ -1,0 +1,22 @@
+html {
+  background-color: #222;
+  padding: 0;
+  margin: 0;
+}
+header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+header p span {
+  color: rgb(99, 99, 202);
+  font-size: 5rem;
+  font-weight: bolder;
+  letter-spacing: 25px;
+  margin-left: 2rem;
+}
+header p {
+  color: #fff;
+  font-size: 1.1rem;
+  letter-spacing: 1px;
+}
